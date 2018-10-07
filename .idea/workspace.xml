@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe62589-9c8a-4a00-8233-7641fe5fb0ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_data/invoices.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/invoices.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/cards/invoices.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/cards/invoices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/cards/stats-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/cards/stats-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/cards/table-users.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/cards/table-users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/dashboard/_flag.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/dashboard/_flag.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/dashboard/fonts/_feather.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/dashboard/fonts/_feather.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1061971847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="html" value="7" />
+          <entry key="scss" value="5" />
+          <entry key="svg" value="2" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="7" />
+          <entry key="SCSS" value="5" />
+          <entry key="SVG" value="2" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="863" />
+          <entry key="scss" value="22" />
+          <entry key="yml" value="488" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="863" />
+          <entry key="SCSS" value="22" />
+          <entry key="YAML" value="488" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="81" selection-start-line="81" selection-end-line="81" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/dashboard/fonts/_feather.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="807" column="9" selection-start-line="807" selection-start-column="4" selection-end-line="807" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/_includes/cards/stats-1.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret lean-forward="true" />
+                  <folding>
+                    <element signature="e#379#385#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/_includes/cards/invoices.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/_includes/cards/table-users.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="388">
+                  <caret line="56" selection-start-line="54" selection-end-line="56" />
+                  <folding>
+                    <element signature="e#1241#1247#0" expanded="true" />
+                    <element signature="e#1247#1253#0" expanded="true" />
+                    <element signature="e#1253#1259#0" expanded="true" />
+                    <element signature="e#1259#1265#0" expanded="true" />
+                    <element signature="e#1265#1271#0" expanded="true" />
+                    <element signature="e#1271#1277#0" expanded="true" />
+                    <element signature="e#1277#1283#0" expanded="true" />
+                    <element signature="e#1283#1289#0" expanded="true" />
+                    <element signature="e#1289#1295#0" expanded="true" />
+                    <element signature="e#1295#1301#0" expanded="true" />
+                    <element signature="e#1301#1307#0" expanded="true" />
+                    <element signature="e#1307#1313#0" expanded="true" />
+                    <element signature="e#1313#1319#0" expanded="true" />
+                    <element signature="e#1319#1325#0" expanded="true" />
+                    <element signature="e#1325#1331#0" expanded="true" />
+                    <element signature="e#1340#1346#0" expanded="true" />
+                    <element signature="e#1346#1352#0" expanded="true" />
+                    <element signature="e#1352#1358#0" expanded="true" />
+                    <element signature="e#1358#1364#0" expanded="true" />
+                    <element signature="e#1364#1370#0" expanded="true" />
+                    <element signature="e#1370#1376#0" expanded="true" />
+                    <element signature="e#1376#1382#0" expanded="true" />
+                    <element signature="e#1382#1388#0" expanded="true" />
+                    <element signature="e#1388#1394#0" expanded="true" />
+                    <element signature="e#1394#1400#0" expanded="true" />
+                    <element signature="e#1400#1406#0" expanded="true" />
+                    <element signature="e#1406#1412#0" expanded="true" />
+                    <element signature="e#1412#1418#0" expanded="true" />
+                    <element signature="e#1418#1424#0" expanded="true" />
+                    <element signature="e#1424#1430#0" expanded="true" />
+                    <element signature="e#1439#1445#0" expanded="true" />
+                    <element signature="e#1445#1451#0" expanded="true" />
+                    <element signature="e#1451#1457#0" expanded="true" />
+                    <element signature="e#1457#1463#0" expanded="true" />
+                    <element signature="e#1463#1469#0" expanded="true" />
+                    <element signature="e#1469#1475#0" expanded="true" />
+                    <element signature="e#1475#1481#0" expanded="true" />
+                    <element signature="e#1481#1487#0" expanded="true" />
+                    <element signature="e#1487#1493#0" expanded="true" />
+                    <element signature="e#1493#1499#0" expanded="true" />
+                    <element signature="e#1499#1505#0" expanded="true" />
+                    <element signature="e#1505#1511#0" expanded="true" />
+                    <element signature="e#1511#1517#0" expanded="true" />
+                    <element signature="e#1517#1523#0" expanded="true" />
+                    <element signature="e#1523#1529#0" expanded="true" />
+                    <element signature="e#1538#1544#0" expanded="true" />
+                    <element signature="e#1544#1550#0" expanded="true" />
+                    <element signature="e#1550#1556#0" expanded="true" />
+                    <element signature="e#1556#1562#0" expanded="true" />
+                    <element signature="e#1562#1568#0" expanded="true" />
+                    <element signature="e#1568#1574#0" expanded="true" />
+                    <element signature="e#1574#1580#0" expanded="true" />
+                    <element signature="e#1580#1586#0" expanded="true" />
+                    <element signature="e#1586#1592#0" expanded="true" />
+                    <element signature="e#1592#1598#0" expanded="true" />
+                    <element signature="e#1598#1604#0" expanded="true" />
+                    <element signature="e#1604#1610#0" expanded="true" />
+                    <element signature="e#1610#1616#0" expanded="true" />
+                    <element signature="e#1616#1622#0" expanded="true" />
+                    <element signature="e#1622#1628#0" expanded="true" />
+                    <element signature="e#1637#1643#0" expanded="true" />
+                    <element signature="e#1643#1649#0" expanded="true" />
+                    <element signature="e#1649#1655#0" expanded="true" />
+                    <element signature="e#1655#1661#0" expanded="true" />
+                    <element signature="e#1661#1667#0" expanded="true" />
+                    <element signature="e#1667#1673#0" expanded="true" />
+                    <element signature="e#1673#1679#0" expanded="true" />
+                    <element signature="e#1679#1685#0" expanded="true" />
+                    <element signature="e#1685#1691#0" expanded="true" />
+                    <element signature="e#1691#1697#0" expanded="true" />
+                    <element signature="e#1697#1703#0" expanded="true" />
+                    <element signature="e#1703#1709#0" expanded="true" />
+                    <element signature="e#1709#1715#0" expanded="true" />
+                    <element signature="e#1715#1721#0" expanded="true" />
+                    <element signature="e#1721#1727#0" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/_data/invoices.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>last</find>
+      <find>satisf</find>
+      <find>submi</find>
+      <find>visa</find>
+      <find>2checkout-dark</find>
+      <find>amazon-dark</find>
+      <find>flags</find>
+      <find>fa-facebook</find>
+      <find>invoices</find>
+      <find>vat-no</find>
+      <find>Create</find>
+      <find>date</find>
+      <find>center</find>
+      <find>pjai</find>
+      <find>paid today</find>
+      <find>Due</find>
+      <find>Failed</find>
+      <find>Payments</find>
+      <find>POsted</find>
+      <find>accept</find>
+      <find>connec</find>
+      <find>datatable</find>
+      <find>%</find>
+      <find>John</find>
+      <find>Paymen</find>
+      <find>confirm</find>
+      <find>magnify</find>
+      <find>camera</find>
+      <find>twitter</find>
+      <find>share</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>tx-no</replace>
+      <replace>timestamp</replace>
+      <replace>status: success</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/scss/dashboard/_payments.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/dashboard/_flag.scss" />
+        <option value="$PROJECT_DIR$/src/_data/invoices.yml" />
+        <option value="$PROJECT_DIR$/src/_includes/cards/invoices.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/dashboard/fonts/_feather.scss" />
+        <option value="$PROJECT_DIR$/src/_includes/cards/table-users.html" />
+        <option value="$PROJECT_DIR$/src/_includes/cards/stats-1.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="909" />
+    <option name="y" value="490" />
+    <option name="width" value="94" />
+    <option name="height" value="100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="flags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="payments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538876964632" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe62589-9c8a-4a00-8233-7641fe5fb0ab" name="Default Changelist" comment="" />
+      <created>1538852103171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538852103171</updated>
+      <workItem from="1538852104432" duration="12375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1922" height="997" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14479166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/401.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/invoice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/invoice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="7490" column="1" selection-start-line="7490" selection-start-column="1" selection-end-line="7490" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16867" column="44" selection-start-line="16867" selection-start-column="44" selection-end-line="16867" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/dashboard.rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16866" column="9" selection-start-line="16866" selection-start-column="9" selection-end-line="16866" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/dashboard/_payments.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/payments/amazon-dark.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/flags/ad.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/dashboard/_flag.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/invoices.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/dashboard/fonts/_feather.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="807" column="9" selection-start-line="807" selection-start-column="4" selection-end-line="807" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/cards/stats-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#379#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/cards/invoices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/cards/table-users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="56" selection-start-line="54" selection-end-line="56" />
+          <folding>
+            <element signature="e#1241#1247#0" expanded="true" />
+            <element signature="e#1247#1253#0" expanded="true" />
+            <element signature="e#1253#1259#0" expanded="true" />
+            <element signature="e#1259#1265#0" expanded="true" />
+            <element signature="e#1265#1271#0" expanded="true" />
+            <element signature="e#1271#1277#0" expanded="true" />
+            <element signature="e#1277#1283#0" expanded="true" />
+            <element signature="e#1283#1289#0" expanded="true" />
+            <element signature="e#1289#1295#0" expanded="true" />
+            <element signature="e#1295#1301#0" expanded="true" />
+            <element signature="e#1301#1307#0" expanded="true" />
+            <element signature="e#1307#1313#0" expanded="true" />
+            <element signature="e#1313#1319#0" expanded="true" />
+            <element signature="e#1319#1325#0" expanded="true" />
+            <element signature="e#1325#1331#0" expanded="true" />
+            <element signature="e#1340#1346#0" expanded="true" />
+            <element signature="e#1346#1352#0" expanded="true" />
+            <element signature="e#1352#1358#0" expanded="true" />
+            <element signature="e#1358#1364#0" expanded="true" />
+            <element signature="e#1364#1370#0" expanded="true" />
+            <element signature="e#1370#1376#0" expanded="true" />
+            <element signature="e#1376#1382#0" expanded="true" />
+            <element signature="e#1382#1388#0" expanded="true" />
+            <element signature="e#1388#1394#0" expanded="true" />
+            <element signature="e#1394#1400#0" expanded="true" />
+            <element signature="e#1400#1406#0" expanded="true" />
+            <element signature="e#1406#1412#0" expanded="true" />
+            <element signature="e#1412#1418#0" expanded="true" />
+            <element signature="e#1418#1424#0" expanded="true" />
+            <element signature="e#1424#1430#0" expanded="true" />
+            <element signature="e#1439#1445#0" expanded="true" />
+            <element signature="e#1445#1451#0" expanded="true" />
+            <element signature="e#1451#1457#0" expanded="true" />
+            <element signature="e#1457#1463#0" expanded="true" />
+            <element signature="e#1463#1469#0" expanded="true" />
+            <element signature="e#1469#1475#0" expanded="true" />
+            <element signature="e#1475#1481#0" expanded="true" />
+            <element signature="e#1481#1487#0" expanded="true" />
+            <element signature="e#1487#1493#0" expanded="true" />
+            <element signature="e#1493#1499#0" expanded="true" />
+            <element signature="e#1499#1505#0" expanded="true" />
+            <element signature="e#1505#1511#0" expanded="true" />
+            <element signature="e#1511#1517#0" expanded="true" />
+            <element signature="e#1517#1523#0" expanded="true" />
+            <element signature="e#1523#1529#0" expanded="true" />
+            <element signature="e#1538#1544#0" expanded="true" />
+            <element signature="e#1544#1550#0" expanded="true" />
+            <element signature="e#1550#1556#0" expanded="true" />
+            <element signature="e#1556#1562#0" expanded="true" />
+            <element signature="e#1562#1568#0" expanded="true" />
+            <element signature="e#1568#1574#0" expanded="true" />
+            <element signature="e#1574#1580#0" expanded="true" />
+            <element signature="e#1580#1586#0" expanded="true" />
+            <element signature="e#1586#1592#0" expanded="true" />
+            <element signature="e#1592#1598#0" expanded="true" />
+            <element signature="e#1598#1604#0" expanded="true" />
+            <element signature="e#1604#1610#0" expanded="true" />
+            <element signature="e#1610#1616#0" expanded="true" />
+            <element signature="e#1616#1622#0" expanded="true" />
+            <element signature="e#1622#1628#0" expanded="true" />
+            <element signature="e#1637#1643#0" expanded="true" />
+            <element signature="e#1643#1649#0" expanded="true" />
+            <element signature="e#1649#1655#0" expanded="true" />
+            <element signature="e#1655#1661#0" expanded="true" />
+            <element signature="e#1661#1667#0" expanded="true" />
+            <element signature="e#1667#1673#0" expanded="true" />
+            <element signature="e#1673#1679#0" expanded="true" />
+            <element signature="e#1679#1685#0" expanded="true" />
+            <element signature="e#1685#1691#0" expanded="true" />
+            <element signature="e#1691#1697#0" expanded="true" />
+            <element signature="e#1697#1703#0" expanded="true" />
+            <element signature="e#1703#1709#0" expanded="true" />
+            <element signature="e#1709#1715#0" expanded="true" />
+            <element signature="e#1715#1721#0" expanded="true" />
+            <element signature="e#1721#1727#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

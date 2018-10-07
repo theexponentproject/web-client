@@ -1,159 +1,175 @@
 -
   invoice: "00450"
   name: Design Works
-  client: Carlson Limited
-  vat-no: 87956621
-  date: 15 Dec 2017
+  user: Carlson Limited
+  tx-no: "0xb3ef12..."
+  timestamp: 15 Dec 2017
   status: success
-  status-name: Paid
+  status-name: Success
   price: $887
+  confirmations: 5
 
 -
   invoice: "00450"
   name: UX Wireframes
-  client: Adobe
-  vat-no: 87956421
-  date: 12 Apr 2017
-  status: warning
-  status-name: Pending
+  user: Adobe
+  tx-no: "0xfe964c..."
+  timestamp: 12 Apr 2017
+  status: success
+  status-name: Success
   price: $1200
+  confirmations: 8
 
 -
   invoice: "00452"
   name: New Dashboard
-  client: Bluewolf
-  vat-no: 87952621
-  date: 23 Oct 2017
-  status: warning
-  status-name: Pending
+  user: Bluewolf
+  tx-no: "0x48147c..."
+  timestamp: 23 Oct 2017
+  status: success
+  status-name: Success
   price: $534
+  confirmations: 8
 
 -
   invoice: "00450"
   name: Landing Page
-  client: Salesforce
-  vat-no: 87953421
-  date: 2 Sep 2017
-  status: secondary
-  status-name: Due in 2 Weeks
+  user: Salesforce
+  tx-no: "0x6df0d5..."
+  timestamp: 2 Sep 2017
+  status: success
+  status-name: Success
   price: $1500
+  confirmations: 14
 
 -
   invoice: "00450"
   name: Marketing Templates
-  client: Printic
-  vat-no: 87956621
-  date: 29 Jan 2018
+  user: Printic
+  tx-no: "0x3525e5..."
+  timestamp: 29 Jan 2018
   status: danger
-  status-name: Paid Today
+  status-name: Failed
   price: $648
+  confirmations: "-"
 
 -
   invoice: "00450"
   name: Sales Presentation
-  client: Tabdaq
-  vat-no: 87956621
-  date: 4 Feb 2018
-  status: secondary
-  status-name: Due in 3 Weeks
+  user: Tabdaq
+  tx-no: "0x8b65ed..."
+  timestamp: 4 Feb 2018
+  status: success
+  status-name: Success
   price: $300
+  confirmations: 26
 
 -
   invoice: "00450"
   name: Logo & Print
-  client: Apple
-  vat-no: 87956621
-  date: 22 Mar 2018
+  user: Apple
+  tx-no: "0xc9dc75..."
+  timestamp: 22 Mar 2018
   status: success
-  status-name: Paid Today
+  status-name: Success
   price: $2500
+  confirmations: 26
 
 -
   invoice: "00450"
   name: Icons
-  client: Tookapic
-  vat-no: 87956621
-  date: 13 May 2018
+  user: Tookapic
+  tx-no: "0x2bfa11..."
+  timestamp: 13 May 2018
   status: success
-  status-name: Paid Today
+  status-name: Success
   price: $940
-  
+  confirmations: 53
+
 -
   invoice: "00450"
   name: Design Works
-  client: Carlson Limited
-  vat-no: 87956621
-  date: 15 Dec 2017
+  user: Carlson Limited
+  tx-no: "0x6bcd6e..."
+  timestamp: 15 Dec 2017
   status: success
-  status-name: Paid
+  status-name: Success
   price: $887
+  confirmations: 54
 
 -
   invoice: "00450"
   name: UX Wireframes
-  client: Adobe
-  vat-no: 87956421
-  date: 12 Apr 2017
-  status: warning
-  status-name: Pending
+  user: Adobe
+  tx-no: "0x21fcc3..."
+  timestamp: 12 Apr 2017
+  status: success
+  status-name: Success
   price: $1200
+  confirmations: 67
 
 -
   invoice: "00452"
   name: New Dashboard
-  client: Bluewolf
-  vat-no: 87952621
-  date: 23 Oct 2017
-  status: warning
-  status-name: Pending
+  user: Bluewolf
+  tx-no: "0x431a09..."
+  timestamp: 23 Oct 2017
+  status: success
+  status-name: Success
   price: $534
+  confirmations: 71
 
 -
   invoice: "00450"
   name: Landing Page
-  client: Salesforce
-  vat-no: 87953421
-  date: 2 Sep 2017
-  status: secondary
-  status-name: Due in 2 Weeks
+  user: Salesforce
+  tx-no: "0xf3bee2..."
+  timestamp: 2 Sep 2017
+  status: success
+  status-name: Success
   price: $1500
+  confirmations: 186
 
 -
   invoice: "00450"
   name: Marketing Templates
-  client: Printic
-  vat-no: 87956621
-  date: 29 Jan 2018
+  user: Printic
+  tx-no: "0xe6e04a..."
+  timestamp: 29 Jan 2018
   status: danger
-  status-name: Paid Today
+  status-name: Failed
   price: $648
+  confirmations: 195
 
 -
   invoice: "00450"
   name: Sales Presentation
-  client: Tabdaq
-  vat-no: 87956621
-  date: 4 Feb 2018
-  status: secondary
-  status-name: Due in 3 Weeks
+  user: Tabdaq
+  tx-no: "0x209f6d..."
+  timestamp: 4 Feb 2018
+  status: success
+  status-name: Success
   price: $300
+  confirmation: 254
 
 -
   invoice: "00450"
   name: Logo & Print
-  client: Apple
-  vat-no: 87956621
-  date: 22 Mar 2018
+  user: Apple
+  tx-no: "0xc40798..."
+  timestamp: 22 Mar 2018
   status: success
-  status-name: Paid Today
+  status-name: Success
   price: $2500
+  confirmations: 257
 
 -
   invoice: "00450"
   name: Icons
-  client: Tookapic
-  vat-no: 87956621
-  date: 13 May 2018
+  user: Tookapic
+  tx-no: "0xd981b5..."
+  timestamp: 13 May 2018
   status: success
-  status-name: Paid Today
+  status-name: Success
   price: $940
+  confirmations: 278
